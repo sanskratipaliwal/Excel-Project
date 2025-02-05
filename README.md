@@ -1,0 +1,1 @@
+Cleaned and analyzed a dataset of 30,000+ sales records to identify faulty data and trends, improving reporting accuracy by 30%.  Applied advanced Excel functions and pivot tables for data analysis. Created charts and graphs to visualize data trends and insights. Presented findings in a comprehensive report, recommending process improvements.
